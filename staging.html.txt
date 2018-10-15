@@ -1,0 +1,7 @@
+<html>
+<title> WEB APP Demo </title>
+<body>
+<p> it is Staging environment </p>
+</body>
+
+</html>
